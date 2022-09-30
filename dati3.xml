@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights_number>
+    <flight_number="I001"
+        <year>2022</year>
+            <moth>9</moth>
+            <day>15</day>
+    <hdeparture>
+        <effetivo>10:10</effetivo>
+        <shedulato>10:07</schedulato>
+        </hdeparture>
+    <harrive>
+        <effetivo>12:10</effetivo>
+        <shedulato>12:07</schedulato>
+        </harrive>
+    <modello>
+        <tipo1="airbus">az100</tipo1>
+        <tipo2="boeing"></tipo2>
+    </modello>
+    <posti>
+        <first>100</first>
+        <second>200</second>
+    </posti>
+    <cancellato>
+        <opz1>si</opz1>
+        <opz2>no</opz2>
+    </cancellato>
+    <scali>
+        <precisti>1 or 2 </precisti> <!--dipende dal volo-->
+        <nessuno>no</nessuno>
+    </scali>
+    <T_manovra>
+        <partenza>3</partenza>
+        <arrivo>2</arrivo>
+    </T_manovra>
+    <tratte>
+        <one>milano</one>
+        <due>bari</due>
+    </tratte>
+    <m_ritardo>
+        <causa1>maltempo</causa1>
+        <causa2>nessuna</causa2>
+    </m_ritardo>
+</flights_number>
+
+
+
+    
