@@ -1,0 +1,3 @@
+mysql -u root -p ecommerce < /path/to/img_procedure.sql
+
+-- nella sql command line > call inserter_immagine();
